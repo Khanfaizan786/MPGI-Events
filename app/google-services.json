@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123784487062",
+    "firebase_url": "https://mpgi-events-default-rtdb.firebaseio.com",
+    "project_id": "mpgi-events",
+    "storage_bucket": "mpgi-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123784487062:android:64780f1ce552cbea1262b7",
+        "android_client_info": {
+          "package_name": "com.example.mpgievents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123784487062-tkjroas67mebpu0l2mc4gpge5kq71ra2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mpgievents",
+            "certificate_hash": "163e522ebba936544120a873d2c50283bc980581"
+          }
+        },
+        {
+          "client_id": "123784487062-523p3eov9v8p950nldof2tnfthc93plo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv6e7OdiPVPp5d0C-RUkFgo9yjplPQw4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123784487062-523p3eov9v8p950nldof2tnfthc93plo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

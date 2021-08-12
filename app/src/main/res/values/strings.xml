@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MPGI Events</string>
+    <string name="home">Dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="faqs">FAQs</string>
+    <string name="feed">Feed</string>
+
+    <array name="event_types">
+        <item>Select</item>
+        <item>Games</item>
+        <item>Hackathon</item>
+        <item>Campus Drives</item>
+        <item>Competitions</item>
+        <item>Quiz</item>
+        <item>Others</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="event_date">Event Date (dd/mm/yyyy)</string>
+</resources>
